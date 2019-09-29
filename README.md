@@ -1,3 +1,3 @@
-# UnityWebGLRecoder
+ï»¿# UnityWebGLRecoder
 Unity Recode and Screenshot on WebGL
-Unity ÔÚWebGLÖĞÂ¼ÖÆÊÓÆµºÍÅÄÕÕ
+Unity åœ¨WebGLä¸­å½•åˆ¶è§†é¢‘å’Œæ‹ç…§
